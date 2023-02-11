@@ -6,7 +6,13 @@ Tools : PostgreSQL 15
 ![7-Pexels](https://user-images.githubusercontent.com/119277783/218251864-85310229-6da5-45e4-ac24-769803d6e0f3.jpg)
 
 
-Introduction
+Introduction 
+
+Music Emporium is a new music store opened by King, a passionate music lover. King has a deep love for all types of music, but his favorite genres are Rock, Pop, and Jazz. The store offers a wide range of musical instruments and accessories, as well as a collection of CDs and vinyl records.
+
+Music Emporium is in need of your assistance to help the store thrive. Despite its popularity among music enthusiasts, the store has faced several challenges in its first few months of operation. The store has captured some basic data about its customers and sales,etc  but has no idea how to use this information to make informed business decisions.
+
+The goal of this project is to help  Music Emporium make sense of its data and turn its passion for music into a successful business.
 
 
 
