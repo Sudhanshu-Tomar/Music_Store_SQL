@@ -13,7 +13,8 @@ Entity Relationship (ERD) Diagram
 
  # Problem Statement
  
- The music store wants to analyze its customer and sales data to better understand its customer behavior and market trends. The goal of the project is to answer various business questions related to customer behavior, sales, and music genres.
+ The music store wants to analyze its customer and sales data to better understand its customer behavior and market trends. 
+ The goal of the project is to answer various business questions related to customer behavior, sales, and music genres.
  
  
 -- MODULE 1 :
