@@ -2,6 +2,7 @@
 Tools : PostgreSQL 15 
 
 
+![7-Pexels](https://user-images.githubusercontent.com/119277783/218251864-85310229-6da5-45e4-ac24-769803d6e0f3.jpg)
 
 
 
@@ -52,3 +53,6 @@ Entity Relationship (ERD) Diagram
      Q3: Write a query that determines the customer that has spent the most on music for each country. 
          Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, 
          provide all customers who spent this amount.
+         
+         
+The music store wants to use this information to make informed decisions about promotional activities, customer engagement, and product offerings.         
