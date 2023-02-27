@@ -1,5 +1,5 @@
 # Music_Store_Analyis (Using SQL)
-Tools : PostgreSQL 15 
+
 
 
 
